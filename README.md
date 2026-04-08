@@ -19,6 +19,7 @@ This project provides a comprehensive geographical and operational analysis of W
 ## Key Findings
 ### 1. Store Operational Status
 The vast majority of the dataset represents active locations, with **5,208 stores operational** and only **1 store marked as closed**. This suggests the data provides a "live" snapshot of Walmart's current infrastructure rather than a historical record of store closures.
+
 <img width="580" height="455" alt="Walmart Store Status Analysis" src="https://github.com/user-attachments/assets/57681fbb-119d-4bcf-b8ee-6bdf0ebd58e0" />
 
 ### 2. Geographic Distribution & Regional Strategy
