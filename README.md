@@ -4,22 +4,25 @@ Analysis of Walmart store distribution across the United States  using Python, P
 # Walmart Store Analysis 🛒
 
 ## Overview
-A brief description of what the project is about
+This project provides a comprehensive geographical and operational analysis of Walmart's footprint across the United States. Utilizing a dataset of over 5,200 locations, the analysis explores store distribution patterns, the ratio of retail versus wholesale models, and how state-level demographics influece corporate expansion strategies. The goal is to demonstrate ata proficiency in aggregation, categorical breakdown, and multi-dimensional visualization.
 
 ## Questions Analyzed
-1. Store Status Analysis
-2. Store Distribution by State
-3. Store Type Breakdown
-4. Retail vs Wholesale by State
+1. **Operational Health:** What is the current status (Open vs Closed) of stores across the dataset?
+2. **Geographic Density:** How are stores distributed by state, and which region show the highest concentration?
+3. **Business Model Mix:** What is the ratio of standard Retail stores to Wholesale locations?
+4. **Strategic Concentration:** In states with high store counts, how does the presence of Wholesale locations correlate with Retail locations?
 
 ## Tools Used
 - Python, Pandas, Matplotlib
 - MySQL
 
 ## Key Findings
-- Texas has the most Walmart stores with 590
-- 88.5% of stores are Retail
-- Wholesale stores are concentrated in high retail states
+1. **Store Operational Status**
+The vast majority of the dataset represents active locations, with **5,208 stores operational** and only **1 store marked as closed**. This suggests the data provides a "live" snapshot of Walmart's current infrastructure rather than a historical record of store closures.
+<img width="580" height="455" alt="Walmart Store Status Analysis" src="https://github.com/user-attachments/assets/57681fbb-119d-4bcf-b8ee-6bdf0ebd58e0" />
+
+2. 
+
 
 ## Dataset
 Source: Kaggle
