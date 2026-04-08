@@ -17,13 +17,13 @@ This project provides a comprehensive geographical and operational analysis of W
 - MySQL
 
 ## Key Findings
-1. **Store Operational Status**
+1. ### Store Operational Status
    The vast majority of the dataset represents active locations, with **5,208 stores operational** and only **1 store marked as closed**. This suggests the data provides a "live" snapshot of Walmart's current infrastructure rather than a historical record of store closures.
 <img width="580" height="455" alt="Walmart Store Status Analysis" src="https://github.com/user-attachments/assets/57681fbb-119d-4bcf-b8ee-6bdf0ebd58e0" />
 
 2. **Geographic Distribution & Regional Strategy**
    There is a massive disparity in store counts across states, heavily influenced by population and land mass:
-   **- Southern Dominance:** Texas leads the nation with **590 stores**, followed by Florida(**386**). The high concentration in states like Georgia and North Carolina suggests a historical and strategic prioritization of the Southern United States.
+   **Southern Dominance:** Texas leads the nation with **590 stores**, followed by Florida(**386**). The high concentration in states like Georgia and North Carolina suggests a historical and strategic prioritization of the Southern United States.
 <img width="570" height="455" alt="Top 10 Store Distribution by State" src="https://github.com/user-attachments/assets/d1bdb7d9-e9cb-4221-9ef4-69606505acc3" />
 
    **Limited Presence**: Small-footprint or low-population areas like the **District of Columbia (2)**, **Vermont (6)**, and **Rhode Island (9)** have the lowest counts, illustrating that Walmart's expansion is tightly coupled with geographic scale and consumer volume.
