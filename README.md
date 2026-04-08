@@ -4,7 +4,7 @@ Analysis of Walmart store distribution across the United States  using Python, P
 # Walmart Store Analysis 🛒
 
 ## Overview
-This project provides a comprehensive geographical and operational analysis of Walmart's footprint across the United States. Utilizing a dataset of over 5,200 locations, the analysis explores store distribution patterns, the ratio of retail versus wholesale models, and how state-level demographics influece corporate expansion strategies. The goal is to demonstrate ata proficiency in aggregation, categorical breakdown, and multi-dimensional visualization.
+In this project I analyzed Walmart's store data across the US to find patterns in store distribution and business model. Utilizing a dataset of over 5,200 locations, the analysis explores store distribution by state, the ratio of Retail versus Wholesale stores, and which states have the highest Walmart presence. The goal of this project is to practice and demonstrate skills in SQL, Python, and data visualization.
 
 ## Questions Analyzed
 1. **Operational Health:** What is the current status (Open vs Closed) of stores across the dataset?
@@ -44,6 +44,10 @@ Analysis of the top 10 states reveals that Walmart does not usually launch Whole
 
 <img width="571" height="455" alt="Top 10 States by Retail vs Wholesale Distribution" src="https://github.com/user-attachments/assets/f10ff354-3b1b-4568-ba52-bef40d495574" />
 
+## What I learned
+- How to clean and standardize data using SQL
+- How to create grouped bar charts in matplotlib
+- How to derive business insights from raw data
 
 ## Dataset
 Source: Walmart Store Status Public Data (https://walmart-open-data-walmarttech.opendata.arcgis.com/datasets/39ce1c357bd2424ca481db84aed29464_0/explore?location=40.408854%2C-101.323162%2C2)
